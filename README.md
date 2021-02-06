@@ -35,7 +35,7 @@ The cards represent a combination of Eastern and Western magic centered on the c
 ###### :small_blue_diamond: React.js
 
 
-*Fonts brought to you by Google-Fonts ('#')*
+*Fonts brought to you by Google-Fonts ('Lemonada')*
 
 
 
