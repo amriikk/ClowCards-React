@@ -18,7 +18,7 @@ The cards represent a combination of Eastern and Western magic centered on the c
 
 ## Getting Started:
 
-![App Screenshot 2](https://imgur.com/a/9Yqt5US)
+![App Screenshot 2](https://i.imgur.com/1QTYLXM.png)
 
 | [Link to Heroku](https://#/) :trollface: | [Trello Boards](https://#) | [FANDOM](https://ccsakura.fandom.com/wiki/Clow_Cards#Hierarchy) | [Deck](https://imgur.com/gallery/760Lx1c) |
 | ------------- |:-------------:| -----:|-----:|
