@@ -1,7 +1,7 @@
 # Clow Card Deck App
 ## John Trujillo -- 2021
 
-### Clow Card from Cardcaptor Sakura 
+### Clow Cards from Cardcaptor Sakura anime show..
 
 | :large_blue_circle: John Trujillo | :black_circle: Trujillo | :red_circle: JT |
 | ------------- |:-------------:| -----:|
