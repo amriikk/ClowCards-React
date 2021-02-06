@@ -1,6 +1,6 @@
 //Seeded Data for Menu items
 
-const deck = [
+const cards = [
     {
       id: 1,
       title: 'the dark',
@@ -57,4 +57,4 @@ const deck = [
     },
   ];
 
-  export default deck;
+  export default cards;

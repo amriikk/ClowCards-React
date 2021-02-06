@@ -1,21 +1,20 @@
 import React, { useState } from 'react';
 import Deck from './components/Deck';
 import Categories from './components/Categories';
-import deck from './data';
-import './App.css';
+import cards from './data';
 
-const AllCategories = ['all', ...new Set(deck.map((card) => card.category))];
+const AllCategories = ['all', ...new Set(cards.map((card) => card.category))];
 
 function App() {
-  const [ clowCards, setClowCards] = useState(deck);
+  const [clowCards, setClowCards] = useState(cards);
   const [categories, setCategories] = useState(AllCategories);
 
   const filterCards = (category) => {
     if (category === 'all') {
-      setClowCards(deck);
+      setClowCards(cards);
       return;
     }
-    const newCards = deck.filter((card) => card.category === category);
+    const newCards = cards.filter((card) => card.category === category);
     setClowCards(newCards);
   };
 
@@ -27,7 +26,7 @@ function App() {
           <div className='underline'></div>
         </div>
         <Categories categories={categories} filterCards={filterCards}/>
-        <Deck deck={clowCards} />
+        <Deck cards={clowCards} />
       </section>
     </main>
   );

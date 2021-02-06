@@ -1,8 +1,9 @@
 import React from 'react';
 
-const Deck = ({ deck }) => {
+const Deck = ({ cards }) => {
+    return (
     <div className='section-center'>
-        {deck.map((clowCard) => {
+        {cards.map((clowCard) => {
             const { id, title, img, desc, price } = clowCard;
             return (
                 <article key={id} className='clow-card'>
@@ -18,6 +19,7 @@ const Deck = ({ deck }) => {
             );
         })}
     </div>
+    );
 };
 
 export default Deck;
