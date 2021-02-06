@@ -5,7 +5,7 @@ const Deck = ({ cards }) => {
         {cards.map((clowCard) => {
             const { id, title, img, desc, price } = clowCard;
             return (
-                <article className='clow-card'>
+                <article key={id} className='clow-card'>
                     <img src={img} alt={title} className='photo'/>
                     <div className='card-info'>
                         <header>
