@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Deck = ({ cards }) => {
+const Deck = ({ deck }) => {
     <div className='section-center'>
-        {cards.map((clowCard) => {
+        {deck.map((clowCard) => {
             const { id, title, img, desc, price } = clowCard;
             return (
                 <article key={id} className='clow-card'>

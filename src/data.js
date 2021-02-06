@@ -57,4 +57,4 @@ const deck = [
     },
   ];
 
-  export default menu;
+  export default deck;
