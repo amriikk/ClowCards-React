@@ -20,7 +20,7 @@ The cards represent a combination of Eastern and Western magic centered on the c
 
 ![App Screenshot 2](https://i.imgur.com/1QTYLXM.png)
 
-| [Link to Heroku](https://#/) :trollface: | [Trello Boards](https://#) | [FANDOM](https://ccsakura.fandom.com/wiki/Clow_Cards#Hierarchy) | [Deck](https://imgur.com/gallery/760Lx1c) |
+| [Link to Vercel](https://clow-cards-react.vercel.app/) :trollface: | [FANDOM](https://ccsakura.fandom.com/wiki/Clow_Cards#Hierarchy) | [Deck](https://imgur.com/gallery/760Lx1c) |
 | ------------- |:-------------:| -----:|-----:|
 
 
@@ -33,6 +33,9 @@ The cards represent a combination of Eastern and Western magic centered on the c
 ###### :small_blue_diamond: JavaScript
 
 ###### :small_blue_diamond: React.js
+
+###### :small_blue_diamond: Vercel
+
 
 
 *Fonts brought to you by Google-Fonts ('Lemonada')*
