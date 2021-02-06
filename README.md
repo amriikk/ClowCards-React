@@ -21,7 +21,7 @@ The cards represent a combination of Eastern and Western magic centered on the c
 ![App Screenshot 2](https://i.imgur.com/1QTYLXM.png)
 
 | [Link to Vercel](https://clow-cards-react.vercel.app/) :trollface: | [FANDOM](https://ccsakura.fandom.com/wiki/Clow_Cards#Hierarchy) | [Deck](https://imgur.com/gallery/760Lx1c) |
-| ------------- |:-------------:| -----:|-----:|
+| ------------- |:-------------:| -----:|
 
 
 ## Technology + Techniques: 
