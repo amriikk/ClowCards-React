@@ -44,7 +44,7 @@ const cards = [
       price: 22.99,
       // img: './images/item-5.jpeg',
       img: 'https://i.imgur.com/3xZabqi.jpeg',
-      desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+      desc: `The Windy (Kanji: 風, Katakana: ウィンディー, Romanji: Uuindī) is a Clow Card with the power to create and control wind. It is one of the four elemental cards, and as such it is one of the most powerful. Windy falls under the power of the Moon, Yue and under Eastern Magic.`,
     },
     {
       id: 6,
