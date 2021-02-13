@@ -26,7 +26,7 @@ const cards = [
       price: 6.99,
       // img: './images/item-3.jpeg',
       img: 'https://i.imgur.com/t6xNpAx.jpeg',
-      desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+      desc: `The Watery (Kanji: 水, Katakana: ウォータリー, Romanji: Uōtarī) is a Clow Card with the power to manipulate and control water. It is one of the four elemental cards, and as such it is one of the most powerful. Watery falls under the power of the Moon, Yue and under Eastern Magic.`,
     },
     {
       id: 4,
