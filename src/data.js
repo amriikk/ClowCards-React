@@ -53,7 +53,7 @@ const cards = [
       price: 18.99,
       // img: './images/item-6.jpeg',
       img: 'https://i.imgur.com/T7DqR79.jpeg',
-      desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+      desc: `The Earthy (Kanji: 地, Katakana: アーシー, Romanji: Āshī) is a Clow Card with the power to control and manipulate earth. It is one of the four elemental cards, and as such it is one of the most powerful. Earthy falls under the power of the Sun, Cerberus and under Western Magic.`,
     },
     {
         id: 7,
