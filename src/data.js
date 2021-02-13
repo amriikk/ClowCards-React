@@ -17,7 +17,7 @@ const cards = [
       price: 13.99,
       // img: './images/item-2.jpeg',
       img: 'https://i.imgur.com/Jut3y6l.jpeg',
-      desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+      desc: `The Light (Kanji: 光, Katakana: ライト, Romanji: Raito) is a Clow Cards with the power to control light. Alongside The Dark, it is one of the foremost of the Clow Cards, and falls under the power of the Sun, Cerberus, and Western Magic.`,
     },
     {
       id: 3,
