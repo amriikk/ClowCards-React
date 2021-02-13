@@ -35,7 +35,7 @@ const cards = [
       price: 20.99,
       // img: './images/item-4.jpeg',
       img: 'https://i.imgur.com/uwTRmqf.jpeg',
-      desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+      desc: `The Firey (Kanji: 火, Katakana: ファイーリー, Romanji: Faīrī) is a Clow Card with the power to control and manipulate fire. It is one of the four elemental cards, and as such it is one of the most powerful. Firey falls under the power of the Sun, Cerberus and Western Magic`,
     },
     {
       id: 5,
