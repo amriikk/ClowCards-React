@@ -107,7 +107,7 @@ const cards = [
       },
       {
         id: 14,
-        title: 'the light',
+        title: 'the big',
         category: 'light',
         guardian: 13.99,
         // img: './images/item-2.jpeg',
@@ -116,7 +116,7 @@ const cards = [
       },
       {
         id: 15,
-        title: 'the watery',
+        title: 'the create',
         category: 'water',
         guardian: 6.99,
         // img: './images/item-3.jpeg',
@@ -125,7 +125,7 @@ const cards = [
       },
       {
         id: 16,
-        title: 'the firey',
+        title: 'the glow',
         category: 'fire',
         guardian: 20.99,
         // img: './images/item-4.jpeg',
@@ -134,7 +134,7 @@ const cards = [
       },
       {
         id: 17,
-        title: 'the windy',
+        title: 'the little',
         category: 'wind',
         guardian: 22.99,
         // img: './images/item-5.jpeg',
@@ -143,7 +143,7 @@ const cards = [
       },
       {
         id: 18,
-        title: 'the earthy',
+        title: 'the return',
         category: 'earth',
         guardian: 18.99,
         // img: './images/item-6.jpeg',
