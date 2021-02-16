@@ -63,7 +63,7 @@ const cards = [
         category: 'dark',
         guardian: 'Yue - Moon',
         img: 'https://i.imgur.com/Jut3y6l.jpeg',
-        desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+        desc: `The Illusion (Kanji: 幻, Katakana: イルージョン, Romanji: Irūjon) is a Clow Card with the power to create illusions. It is under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
         id: 9,
@@ -71,7 +71,7 @@ const cards = [
         category: 'dark',
         guardian: 'Yue - Moon',
         img: 'https://i.imgur.com/t6xNpAx.jpeg',
-        desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+        desc: `The Dream (Kanji: 夢, Katakana: ドリーム, Romanji: Dorīmu) is a Clow Card with the power to manipulate dreams. It is under The Dark, the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
         id: 10,
@@ -79,7 +79,7 @@ const cards = [
         category: 'dark',
         guardian: 'Yue - Moon',
         img: 'https://i.imgur.com/uwTRmqf.jpeg',
-        desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+        desc: `The Erase (Kanji: 消, Katakana: エレーズ, Romanji: Erēzu) is a Clow Card with the power to erase anything from existence. It is under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
         id: 11,
@@ -87,7 +87,7 @@ const cards = [
         category: 'dark',
         guardian: 'Yue - Moon',
         img: 'https://i.imgur.com/3xZabqi.jpeg',
-        desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+        desc: `The Silent (Kanji: 静, Katakana: サイレント, Romanji: Sairento) is a Clow Card with the power to manipulate silence. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
         id: 12,
@@ -95,7 +95,7 @@ const cards = [
         category: 'dark',
         guardian: 'Yue - Moon',
         img: 'https://i.imgur.com/T7DqR79.jpeg',
-        desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+        desc: `The Sleep (Kanji: 眠, Katakana: スリープ, Romanji: Surīpu) is a Clow Card with the power to put anyone to sleep. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
         id: 13,
@@ -103,7 +103,7 @@ const cards = [
         category: 'dark',
         guardian: 'Yue - Moon',
         img: 'https://i.imgur.com/yTJgibz.jpeg',
-        desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+        desc: `The Time (Kanji: 時, Katakana: タイム, Romanji: Taimu) is a Clow Card with the power to manipulate time. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
         id: 14,
