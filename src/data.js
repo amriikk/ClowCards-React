@@ -146,7 +146,7 @@ const cards = [
         desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
       },
       {
-        id: 17,
+        id: 19,
         title: 'the shadow',
         category: 'light',
         guardian: 'Kero - Sun',
@@ -154,7 +154,7 @@ const cards = [
         desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
       },
       {
-        id: 18,
+        id: 20,
         title: 'the sweet',
         category: 'light',
         guardian: 'Kero - Sun',
