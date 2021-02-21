@@ -159,7 +159,7 @@ const cards = [
         category: 'light',
         guardian: 'Kero - Sun',
         img: 'https://i.imgur.com/WgeE9VX.jpeg',
-        desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+        desc: `The Sweet (Kanji: 甘, Katakana: スウィート, Romanji: Suuīto) is one of the fifty-two Clow Cards in the anime.`,
       },
   ];
 
