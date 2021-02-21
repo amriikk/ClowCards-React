@@ -118,8 +118,8 @@ const cards = [
         title: 'the create',
         category: 'light',
         guardian: 'Kero - Sun',
-        img: 'https://i.imgur.com/t6xNpAx.jpeg',
-        desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+        img: 'https://i.imgur.com/M8Iinp9.jpg',
+        desc: `The Create (Kanji: 創, Katakana: クリエイト, Romanji: Kurīēto) is a Clow Card with the power to bring creatures or objects into existence. It is aligned under The Light and under the power of the Sun, Cerberus, and Western Magic.`,
       },
       {
         id: 16,
