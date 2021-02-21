@@ -134,8 +134,8 @@ const cards = [
         title: 'the little',
         category: 'light',
         guardian: 'Kero - Sun',
-        img: 'https://i.imgur.com/3xZabqi.jpeg',
-        desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+        img: 'https://i.imgur.com/OvAUIoU.jpg',
+        desc: `The Little (Kanji: 小, Katakana: リタル, Romanji: Ritaru) is a Clow Card with the power to shrink creatures and objects to miniature size. It is aligned under The Light and under the power of the Sun, Cerberus, and Western Magic.`,
       },
       {
         id: 18,
