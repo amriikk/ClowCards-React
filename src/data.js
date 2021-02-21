@@ -110,8 +110,8 @@ const cards = [
         title: 'the big',
         category: 'light',
         guardian: 'Kero - Sun',
-        img: 'https://i.imgur.com/Jut3y6l.jpeg',
-        desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+        img: 'https://i.imgur.com/0XYeRIM.jpg',
+        desc: `The Big (Kanji: 大, Katakana: ビグ, Romanji: Bigu) is a Clow Card with the power to grow creatures and objects in size. It is aligned under The Light card and under the power of the Sun, Cerberus, and Western Magic, as is its opposing card, The Little.`,
       },
       {
         id: 15,
