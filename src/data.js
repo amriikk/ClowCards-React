@@ -143,7 +143,7 @@ const cards = [
         category: 'light',
         guardian: 'Kero - Sun',
         img: 'https://i.imgur.com/7ytuUyA.jpg',
-        desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+        desc: `The Return (Kanji: 戻, Katakana: レターン, Romanji: Retān) is one of the fifty-three Clow Cards in the anime. It is under The Light and under the power of the Sun, Cerberus, and Western Magic.`,
       },
       {
         id: 19,
