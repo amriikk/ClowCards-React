@@ -158,7 +158,7 @@ const cards = [
         title: 'the sweet',
         category: 'light',
         guardian: 'Kero - Sun',
-        img: 'https://i.imgur.com/T7DqR79.jpeg',
+        img: 'https://i.imgur.com/WgeE9VX.jpeg',
         desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
       },
   ];
