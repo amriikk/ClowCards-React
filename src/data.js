@@ -142,7 +142,7 @@ const cards = [
         title: 'the return',
         category: 'light',
         guardian: 'Kero - Sun',
-        img: 'https://i.imgur.com/T7DqR79.jpeg',
+        img: 'https://i.imgur.com/7ytuUyA.jpg',
         desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
       },
       {
