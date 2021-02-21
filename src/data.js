@@ -126,8 +126,8 @@ const cards = [
         title: 'the glow',
         category: 'light',
         guardian: 'Kero - Sun',
-        img: 'https://i.imgur.com/uwTRmqf.jpeg',
-        desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+        img: 'https://i.imgur.com/pl8xpkj.jpg',
+        desc: `The Glow (Kanji: 灯, Katakana: グロー, Romanji: Gurō) is a Clow Card with the power to create tiny glowing lights. It is aligned under The Light and under the power of the Sun, Cerberus, and Western Magic.`,
       },
       {
         id: 17,
