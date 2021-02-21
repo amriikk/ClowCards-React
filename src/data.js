@@ -151,7 +151,7 @@ const cards = [
         category: 'light',
         guardian: 'Kero - Sun',
         img: 'https://i.imgur.com/3xZabqi.jpeg',
-        desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+        desc: `The Shadow (Kanji: 影, Katakana: シャッドー, Romanji: Shaddō) is a Clow Card with the power to control and manipulate shadows. It is under The Light and under the power of the Sun, Cerberus, and Western Magic.`,
       },
       {
         id: 20,
