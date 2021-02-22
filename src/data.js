@@ -191,7 +191,7 @@ const cards = [
         category: 'dark',
         guardian: 'Yue - Moon',
         img: 'https://i.imgur.com/wLV6GG2.jpeg',
-        desc: `The Silent (Kanji: 静, Katakana: サイレント, Romanji: Sairento) is a Clow Card with the power to manipulate silence. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
+        desc: `The Mist (Kanji: 霧, Katakana: ミスト, Romanji: Misuto)  is one of the fifty-two Clow Cards in the anime.`,
       },
       {
         id: 27,
