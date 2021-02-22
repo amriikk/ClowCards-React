@@ -182,8 +182,8 @@ const cards = [
         title: 'the cloud',
         category: 'dark',
         guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/t6xNpAx.jpeg',
-        desc: `The Dream (Kanji: 夢, Katakana: ドリーム, Romanji: Dorīmu) is a Clow Card with the power to manipulate dreams. It is under The Dark, the power of the Moon, Yue, and Eastern Magic.`,
+        img: 'https://i.imgur.com/zp9Lc2s.jpeg',
+        desc: `The Cloud (Kanji: 雲, Katakana: クラウド, Romanji: Kuraudo) is one of the fifty-two Clow Cards in the anime.`,
       },
       {
         id: 24,
