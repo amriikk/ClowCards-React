@@ -190,8 +190,8 @@ const cards = [
         title: 'the freeze',
         category: 'dark',
         guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/uwTRmqf.jpeg',
-        desc: `The Erase (Kanji: 消, Katakana: エレーズ, Romanji: Erēzu) is a Clow Card with the power to erase anything from existence. It is under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
+        img: 'https://i.imgur.com/u9Dmccz.jpeg',
+        desc: `The Freeze (Kanji: 凍, Katakana: フリーズ, Romanji: Furīzu) is one of the fifty-two Clow Cards in the anime. It is aligned under the Watery card. Its Clear Card counterpart is "Hail" just like the Snow.`,
       },
       {
         id: 25,
