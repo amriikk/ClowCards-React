@@ -163,14 +163,6 @@ const cards = [
       },
       {
         id: 21,
-        title: 'the change',
-        category: 'dark',
-        guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/yTJgibz.jpeg',
-        desc: `The Change (Kanji: 替, Katakana: チェーンジ, Romanji: Chēnji) is a Clow Card with the power to cause two people to switch bodies. It is under The Dark and under the power of the moon, Yue, and Eastern magic.`,
-    },
-      {
-        id: 22,
         title: 'the bubbles',
         category: 'dark',
         guardian: 'Yue - Moon',
@@ -178,7 +170,7 @@ const cards = [
         desc: `The Bubbles (Kanji: 泡, Katakana: バブル, Romanji: Baburu)  is one of the fifty-two Clow Cards in the anime.`,
       },
       {
-        id: 23,
+        id: 22,
         title: 'the cloud',
         category: 'dark',
         guardian: 'Yue - Moon',
@@ -186,7 +178,7 @@ const cards = [
         desc: `The Cloud (Kanji: 雲, Katakana: クラウド, Romanji: Kuraudo) is one of the fifty-two Clow Cards in the anime.`,
       },
       {
-        id: 24,
+        id: 23,
         title: 'the freeze',
         category: 'dark',
         guardian: 'Yue - Moon',
@@ -194,7 +186,7 @@ const cards = [
         desc: `The Freeze (Kanji: 凍, Katakana: フリーズ, Romanji: Furīzu) is one of the fifty-two Clow Cards in the anime. It is aligned under the Watery card. Its Clear Card counterpart is "Hail" just like the Snow.`,
       },
       {
-        id: 25,
+        id: 24,
         title: 'the mist',
         category: 'dark',
         guardian: 'Yue - Moon',
@@ -202,7 +194,7 @@ const cards = [
         desc: `The Silent (Kanji: 静, Katakana: サイレント, Romanji: Sairento) is a Clow Card with the power to manipulate silence. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
-        id: 26,
+        id: 27,
         title: 'the rain',
         category: 'dark',
         guardian: 'Yue - Moon',
@@ -210,7 +202,7 @@ const cards = [
         desc: `The Sleep (Kanji: 眠, Katakana: スリープ, Romanji: Surīpu) is a Clow Card with the power to put anyone to sleep. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
-        id: 27,
+        id: 28,
         title: 'the snow',
         category: 'dark',
         guardian: 'Yue - Moon',
@@ -218,7 +210,7 @@ const cards = [
         desc: `The Time (Kanji: 時, Katakana: タイム, Romanji: Taimu) is a Clow Card with the power to manipulate time. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
-        id: 28,
+        id: 29,
         title: 'the wave',
         category: 'dark',
         guardian: 'Yue - Moon',
@@ -226,7 +218,7 @@ const cards = [
         desc: `The Time (Kanji: 時, Katakana: タイム, Romanji: Taimu) is a Clow Card with the power to manipulate time. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
-        id: 29,
+        id: 30,
         title: 'the wood',
         category: 'dark',
         guardian: 'Yue - Moon',
