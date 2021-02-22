@@ -174,8 +174,8 @@ const cards = [
         title: 'the bubbles',
         category: 'dark',
         guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/Jut3y6l.jpeg',
-        desc: `The Illusion (Kanji: 幻, Katakana: イルージョン, Romanji: Irūjon) is a Clow Card with the power to create illusions. It is under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
+        img: 'https://i.imgur.com/rDqVuMe.jpeg',
+        desc: `The Bubbles (Kanji: 泡, Katakana: バブル, Romanji: Baburu)  is one of the fifty-two Clow Cards in the anime.`,
       },
       {
         id: 23,
