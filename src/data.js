@@ -198,7 +198,7 @@ const cards = [
         title: 'the rain',
         category: 'dark',
         guardian: 'Yue - Moon',
-        img: 'hhttps://i.imgur.com/Rc6EX4S.jpeg',
+        img: 'https://i.imgur.com/Rc6EX4S.jpeg',
         desc: `The Rain (Kanji: 雨, Katakana: レーン, Romanji: Rēn) is one of the fifty-two Clow Cards in the anime.`,
       },
       {
