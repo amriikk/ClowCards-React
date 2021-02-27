@@ -214,7 +214,7 @@ const cards = [
         title: 'the wave',
         category: 'dark',
         guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/yTJgibz.jpeg',
+        img: 'https://i.imgur.com/wDPKGvw.jpeg',
         desc: `The Wave (Kanji: 波, Katakana: ウェーブ, Romanji: Uēbu) capture is never seen in the anime, but from its name, it has been surmised that it is a less-powerful version of Watery, probably able to control existing water near it, but unable to create new water magically like Watery can, capable of creating gigantic tidal waves.`,
       },
       {
