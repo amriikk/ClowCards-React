@@ -215,7 +215,7 @@ const cards = [
         category: 'dark',
         guardian: 'Yue - Moon',
         img: 'https://i.imgur.com/yTJgibz.jpeg',
-        desc: `The Time (Kanji: 時, Katakana: タイム, Romanji: Taimu) is a Clow Card with the power to manipulate time. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
+        desc: `The Wave (Kanji: 波, Katakana: ウェーブ, Romanji: Uēbu) capture is never seen in the anime, but from its name, it has been surmised that it is a less-powerful version of Watery, probably able to control existing water near it, but unable to create new water magically like Watery can, capable of creating gigantic tidal waves.`,
       },
       {
         id: 30,
