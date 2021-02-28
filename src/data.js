@@ -78,7 +78,7 @@ const cards = [
         title: 'the erase',
         category: 'dark',
         guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/uwTRmqf.jpeg',
+        img: 'https://i.imgur.com/HAoJzMR.jpeg',
         desc: `The Erase (Kanji: 消, Katakana: エレーズ, Romanji: Erēzu) is a Clow Card with the power to erase anything from existence. It is under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
