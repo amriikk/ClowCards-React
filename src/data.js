@@ -50,12 +50,12 @@ const cards = [
       desc: `The Earthy (Kanji: 地, Katakana: アーシー, Romanji: Āshī) is a Clow Card with the power to control and manipulate earth. It is one of the four elemental cards, and as such it is one of the most powerful. Earthy falls under the power of the Sun, Cerberus and under Western Magic.`,
     },
     {
-        id: 7,
-        title: 'the change',
-        category: 'dark',
-        guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/yTJgibz.jpeg',
-        desc: `The Change (Kanji: 替, Katakana: チェーンジ, Romanji: Chēnji) is a Clow Card with the power to cause two people to switch bodies. It is under The Dark and under the power of the moon, Yue, and Eastern magic.`,
+      id: 7,
+      title: 'the change',
+      category: 'dark',
+      guardian: 'Yue - Moon',
+      img: 'https://i.imgur.com/yTJgibz.jpeg',
+      desc: `The Change (Kanji: 替, Katakana: チェーンジ, Romanji: Chēnji) is a Clow Card with the power to cause two people to switch bodies. It is under The Dark and under the power of the moon, Yue, and Eastern magic.`,
     },
       {
         id: 8,
