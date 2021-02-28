@@ -70,7 +70,7 @@ const cards = [
         title: 'the dream',
         category: 'dark',
         guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/t6xNpAx.jpeg',
+        img: 'https://i.imgur.com/x1RY7Rf.jpeg',
         desc: `The Dream (Kanji: 夢, Katakana: ドリーム, Romanji: Dorīmu) is a Clow Card with the power to manipulate dreams. It is under The Dark, the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
