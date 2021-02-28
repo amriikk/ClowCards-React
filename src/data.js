@@ -54,7 +54,7 @@ const cards = [
       title: 'the change',
       category: 'dark',
       guardian: 'Yue - Moon',
-      img: 'https://i.imgur.com/yTJgibz.jpeg',
+      img: 'https://i.imgur.com/xNONQYi.jpeg',
       desc: `The Change (Kanji: 替, Katakana: チェーンジ, Romanji: Chēnji) is a Clow Card with the power to cause two people to switch bodies. It is under The Dark and under the power of the moon, Yue, and Eastern magic.`,
     },
       {
