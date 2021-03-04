@@ -94,7 +94,7 @@ const cards = [
         title: 'the sleep',
         category: 'dark',
         guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/T7DqR79.jpeg',
+        img: 'https://i.imgur.com/WgeE9VX.jpeg',
         desc: `The Sleep (Kanji: 眠, Katakana: スリープ, Romanji: Surīpu) is a Clow Card with the power to put anyone to sleep. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
