@@ -102,7 +102,7 @@ const cards = [
         title: 'the time',
         category: 'dark',
         guardian: 'Yue - Moon',
-        img: 'https://i.imgur.com/yTJgibz.jpeg',
+        img: 'https://i.imgur.com/P5Ji1Au.jpeg',
         desc: `The Time (Kanji: 時, Katakana: タイム, Romanji: Taimu) is a Clow Card with the power to manipulate time. It is aligned under The Dark and under the power of the Moon, Yue, and Eastern Magic.`,
       },
       {
